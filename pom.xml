@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
 
 <properties>
-        <resteasy.version>3.0.9.Final</resteasy.version>
+        <resteasy.version>3.14.0.Final</resteasy.version>
 </properties>
 <dependencies>
     <dependency>
